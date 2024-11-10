@@ -1,0 +1,5 @@
+metaflow>=2.12.29
+numpy>=1.26.4
+pandas>=2.1.1
+sqlalchemy>=2.0.21
+scikit-learn>=1.5.2

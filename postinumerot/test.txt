@@ -1,0 +1,6 @@
+15100 Lahti – keskustan eteläinen osa, Asemantausta
+15110 Lahti – keskustan läntinen osa
+15140 Lahti – keskustan pohjoinen osa, Ankkuri, Ruoriniemi
+15150 Lahti – Kujala, Pyhätön
+15160 Lahti – Karisto
+15170 Lahti – Möysä

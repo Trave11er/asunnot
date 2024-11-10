@@ -1,0 +1,529 @@
+02100 Espoo / Esbo – Tapiola – Heikintori, U-talo
+02110 Espoo / Esbo – Tapiola – Itäranta
+02120 Espoo / Esbo – Tapiola – Suvikumpu, Hakalehto
+02130 Espoo / Esbo – Pohjois-Tapiola – Koivumankkaa, Pyhäristi
+02140 Espoo / Esbo – Laajalahti – Friisinmäki, Laajaranta
+02150 Espoo / Esbo – Otaniemi – Keilaniemi, Servinniemi, Teekkarikylä, Maari
+02160 Espoo / Esbo – Westend
+02170 Espoo / Esbo – Haukilahti
+02180 Espoo / Esbo – Mankkaa – Seilimäki, Klovi, Taavinkylä
+02200 Espoo / Esbo – Henttaa, Niittykumpu – Piispankylä, Olarinluoma, Tontunmäki, Lystimäki, Kokinkylä, Lukupuro
+02210 Espoo / Esbo – Olari – Olarinmäki, Kuitinmäki, Puolarmaari
+02230 Espoo / Esbo – Matinkylä – Iirislahti, Koukkuniemi, Nokkala, Nuottaniemi, Nuottalahti, Tiistilä, Piispansilta
+02240 Espoo / Esbo – Olari – Friisilä
+02250 Espoo / Esbo – Henttaa – Suurpelto
+02260 Espoo / Esbo – Kaitaa – Hyljelahti, Kaitamäki, Iivisniemi, Riilahti
+02270 Espoo / Esbo – Kaitaa, Nöykkiö – Hannus, Suomenoja, Eestinmalmi
+02280 Espoo / Esbo – Latokaski, Nöykkiö – Pisa, Kukkumäki, Malminmäki, Puolarmetsä, Eestinlaakso
+02290 Espoo / Esbo – Olari – Puolarmetsän sairaala
+02300 Espoo / Esbo – Nöykkiö
+02320 Espoo / Esbo – Espoonlahti – Laurinlahti, Maininki, Kivenlahti, Marinsatama
+02330 Espoo / Esbo – Saunalahti – Kiviruukki, Kummelivuori, Tillinmäki, Kattilalaakso
+02340 Espoo / Esbo – Latokaski
+02360 Espoo / Esbo – Soukka, Kaitaa – Soukanpohja, Soukanranta, Soukansalmi, Soukanniemi, Hanikka, Munkkiranta, Hannusjärvi
+02380 Espoo / Esbo – Suvisaaristo
+02600 Espoo / Esbo – Leppävaara, Laajalahti – Ruusutorppa, Säteri, Perkkaa, Vermo, Yhdyskunnanmäki, Ruukinranta
+02610 Espoo / Esbo – Kilo – Kilonkartano, Kuninkainen, Karamalmi
+02620 Espoo / Esbo – Karakallio – Leppäsilta, Rastaspuisto, Rastaala
+02630 Espoo / Esbo – Kilo – Nihtisilta, Lansa, Nuijala, Sinimäki
+02650 Espoo / Esbo – Leppävaara – Vallikallio, Puustellinmäki, Mäkkylä, Mäkkylänmetsä
+02660 Espoo / Esbo – Lintuvaara
+02680 Espoo / Esbo – Lintuvaara – Uusmäki
+02710 Espoo / Esbo – Viherlaakso – Kavallinmäki
+02720 Espoo / Esbo – Lippajärvi, Laaksolahti – Lähderanta, Kolkekannas
+02730 Espoo / Esbo – Laaksolahti – Jupperi, Veini
+02740 Espoo / Esbo – Kunnarla, Karhusuo, Röylä, Bodom, Karvasmäki, Högnäs – Lommila, Bemböle, Miilukorpi, Tollinmäki, Ristimäki, Oittaa, Pakankylä, Sorvalampi
+02750 Espoo / Esbo – Sepänkylä, Kuurinniitty, Henttaa – Ymmersta, Gerk, Taavinkylä
+02760 Espoo / Esbo – Espoon keskus – Tuomarila, Kulotorppa, Suvela, Suna, Saarniraivio
+02770 Espoo / Esbo – Espoon keskus, Muurala, Kaupunginkallio – Nimismiehenpelto, Lehtimäki, Pappilanmäki, Kirkkojärvi, Mikkelä, Kiltakallio, Saarniraivio
+02780 Espoo / Esbo – Espoonkartano, Kauklahti, Kurttila, Vanttila
+02810 Espoo / Esbo – Espoonkartano, Gumböle, Karhusuo – Myllärinmäki, Hirvisuo, Pitkäniitty, Karhuniitty
+02820 Espoo / Esbo – Nuuksio, Vanha-Nuuksio, Nupuri, Kolmperä, Ämmässuo, Siikajärvi
+02860 Espoo / Esbo – Siikajärvi – Siikaranta, Soittila, Suolaakso, Uusipelto, Kotimäki, Heinäs
+02920 Espoo / Esbo – Vanhakartano, Niipperi, Perusmäki
+02940 Espoo / Esbo – Röylä, Bodom, Högnäs, Järvenperä, Lippajärvi
+02970 Espoo / Esbo – Luukki, Kalajärvi, Lahnus
+02980 Espoo / Esbo – Velskola, Lakisto
+13100 Hämeenlinna – Keskus
+13110 Hämeenlinna – Kantola, Vanaja
+13130 Hämeenlinna – Kauriala
+13200 Hämeenlinna – Keinusaari
+13210 Hämeenlinna – Hätilä
+13220 Hämeenlinna – Aulanko, Sairio
+13250 Hämeenlinna – Katumajärvi
+13270 Hämeenlinna – Ruununmylly
+13300 Hämeenlinna – Käikälä
+13430 Hämeenlinna – Hattelmala
+13500 Hämeenlinna – Jukola
+13530 Hämeenlinna – Ahvenisto
+13600 Hämeenlinna – Ojoinen
+14300 Renko
+14450 Rimmilä
+14500 Iittala
+14530 Leteensuo
+14680 Alvettula
+14690 Torvoila
+14700 Hauho
+14770 Eteläinen
+14810 Tuulos – Pohjoinen
+14820 Tuulos – Syrjäntaka
+14840 Tuulos – Sairiala
+14870 Tuulos – Juttila
+14930 Sappee
+16900 Lammi
+16960 Iso-Evo
+16970 Evo
+00002 Helsinki / Helsingfors
+00100 Helsinki / Helsingfors – Postitalo, Kamppi, Leppäsuo, Etu-Töölö
+00102 Eduskunta / Riksdagen
+00120 Helsinki / Helsingfors – Punavuori
+00130 Helsinki / Helsingfors – Kaartinkaupunki
+00140 Helsinki / Helsingfors – Ullanlinna, Kaivopuisto
+00150 Helsinki / Helsingfors – Eira
+00160 Helsinki / Helsingfors – Katajanokka
+00170 Helsinki / Helsingfors – Kruununhaka
+00180 Helsinki / Helsingfors – Ruoholahti, Jätkäsaari
+00190 Helsinki / Helsingfors – Suomenlinna
+00200 Helsinki / Helsingfors – Lauttasaari
+00210 Helsinki / Helsingfors – Lauttasaari, Vattuniemi
+00220 Helsinki / Helsingfors – Jätkäsaari
+00230 Helsinki / Helsingfors – Pasila postikeskus
+00240 Helsinki / Helsingfors – Länsi-Pasila
+00250 Helsinki / Helsingfors – Laakso, Meilahti, Taka-Töölö
+00260 Helsinki / Helsingfors – Taka-Töölö
+00270 Helsinki / Helsingfors – Laakso, Meilahti
+00280 Helsinki / Helsingfors – Ruskeasuo
+00290 Helsinki / Helsingfors – Meilahden sairaala-alue
+00300 Helsinki / Helsingfors – Pikku Huopalahti, Ruskeasuo
+00310 Helsinki / Helsingfors – Kivihaka
+00320 Helsinki / Helsingfors – Etelä-Haaga
+00330 Helsinki / Helsingfors – Munkkiniemi
+00340 Helsinki / Helsingfors – Lehtisaari, Kaskisaari, Kuusisaari
+00350 Helsinki / Helsingfors – Munkkivuori, Niemenmäki
+00360 Helsinki / Helsingfors – Pajamäki
+00370 Helsinki / Helsingfors – Pitäjänmäki, Reimarla
+00380 Helsinki / Helsingfors – Pitäjänmäen yritysalue
+00390 Helsinki / Helsingfors – Konala
+00400 Helsinki / Helsingfors – Pohjois-Haaga
+00410 Helsinki / Helsingfors – Malminkartano, Honkasuo
+00420 Helsinki / Helsingfors – Kannelmäki
+00430 Helsinki / Helsingfors – Hakuninmaa, Maununneva, Kuninkaantammi
+00440 Helsinki / Helsingfors – Lassila
+00500 Helsinki / Helsingfors – Sörnäinen
+00510 Helsinki / Helsingfors – Alppila, Vallila
+00520 Helsinki / Helsingfors – Itä-Pasila
+00530 Helsinki / Helsingfors – Hakaniemi, Kallio, Siltasaari, Merihaka
+00540 Helsinki / Helsingfors – Hanasaari, Kalasatama, Sompasaari, Sörnäinen
+00550 Helsinki / Helsingfors – Hermanni, Toukola, Vallila
+00560 Helsinki / Helsingfors – Kumpula, Toukola, Vanhakaupunki, Viikki
+00570 Helsinki / Helsingfors – Kulosaari, Mustikkamaa–Korkeasaari
+00580 Helsinki / Helsingfors – Hermanni, Sörnäinen
+00590 Helsinki / Helsingfors – Laajasalo, Kruunuvuorenranta
+00600 Helsinki / Helsingfors – Käpylä, Koskela
+00610 Helsinki / Helsingfors – Käpylä
+00620 Helsinki / Helsingfors – Metsälä
+00630 Helsinki / Helsingfors – Maunula
+00640 Helsinki / Helsingfors – Oulunkylä, Patola
+00650 Helsinki / Helsingfors – Oulunkylä, Veräjämäki
+00660 Helsinki / Helsingfors – Länsi-Pakila
+00670 Helsinki / Helsingfors – Paloheinä
+00680 Helsinki / Helsingfors – Itä-Pakila
+00690 Helsinki / Helsingfors – Torpparinmäki, Tuomarinkylä
+00700 Helsinki / Helsingfors – Malmi
+00710 Helsinki / Helsingfors – Pihlajisto, Pihlajamäki
+00720 Helsinki / Helsingfors – Pukinmäki, Savela
+00730 Helsinki / Helsingfors – Malmi, Tapaninkylä, Tapanila
+00740 Helsinki / Helsingfors – Siltamäki, Suutarila, Töyrynummi
+00750 Helsinki / Helsingfors – Puistola, Tapulikaupunki, Ala-Tikkurila
+00760 Helsinki / Helsingfors – Puistola, Sirkkalanmäki, Heikinlaakso
+00770 Helsinki / Helsingfors – Tattarisuo, Alppikylä, Jakomäki
+00780 Helsinki / Helsingfors – Tapaninvainio
+00790 Helsinki / Helsingfors – Viikki, Latokartano
+00800 Helsinki / Helsingfors – Herttoniemi
+00810 Helsinki / Helsingfors – Herttoniemenranta
+00820 Helsinki / Helsingfors – Roihuvuori
+00830 Helsinki / Helsingfors – Tammisalo
+00840 Helsinki / Helsingfors – Laajasalo, Yliskylä
+00850 Helsinki / Helsingfors – Laajasalo, Jollas, Villinki
+00860 Helsinki / Helsingfors – Santahamina, Vallisaari
+00870 Helsinki / Helsingfors – Laajasalo, Yliskylä
+00880 Helsinki / Helsingfors – Herttoniemi, Roihupelto
+00890 Helsinki / Helsingfors – Östersundom, Karhusaari, Talosaari (entinen 01100 Itäsalmi / Östersundom)
+00900 Helsinki / Helsingfors – Puotinharju, Itäkeskus, Vartiokylä
+00910 Helsinki / Helsingfors – Puotila
+00920 Helsinki / Helsingfors – Myllypuro
+00930 Helsinki / Helsingfors – Itäkeskus, Marjaniemi
+00940 Helsinki / Helsingfors – Kontula, Kivikko, Mellunkylä
+00950 Helsinki / Helsingfors – Vartioharju
+00960 Helsinki / Helsingfors – Vuosaari, Porslahti
+00970 Helsinki / Helsingfors – Mellunmäki, Mellunkylä, Uutela
+00980 Helsinki / Helsingfors – Vuosaari, Meri-Rastila
+00990 Helsinki / Helsingfors – Vuosaari, Aurinkolahti
+80100 Joensuu
+80110 Joensuu
+80130 Joensuu
+80140 Joensuu
+80160 Joensuu
+80170 Joensuu
+80200 Joensuu
+80210 Joensuu
+80220 Joensuu
+80230 Joensuu
+80260 Joensuu
+80330 Reijola
+81200 Eno
+81210 Louhioja
+81260 Ahveninen
+81270 Paukkaja
+81280 Uimaharju
+81290 Ukkola
+81295 Haapalahti
+81320 Kuismavaara
+81330 Luhtapohja
+81360 Sarvinki
+81390 Revonkylä
+82110 Heinävaara
+82120 Keskijärvi
+82140 Kiihtelysvaara
+82160 Oskola
+82170 Uskali
+82180 Huhtilampi
+82200 Hammaslahti
+82210 Suhmura
+82220 Niittylahti
+82710 Kovero
+82730 Tuupovaara
+82750 Öllölä
+82760 Hoilola
+82840 Pirttiaho
+82850 Kinnasniemi
+82865 Kokinvaara
+82870 Luutalahti
+82880 Mannervaara
+40100 Jyväskylä – keskusta
+40200 Jyväskylä – Taulumäki, Mannila
+40250 Jyväskylä – Lohikoski
+40270 Palokka
+40320 Jyväskylä – Seppälä
+40340 Jyväskylä – Huhtasuo
+40350 Jyväskylä
+40400 Jyväskylä – Halssila
+40420 Jyskä
+40500 Jyväskylä – Keljo
+40520 Jyväskylä – Kuokkala
+40530 Jyväskylä – Keljonkangas
+40600 Jyväskylä – Mattilanpelto
+40620 Jyväskylä – Kyllö
+40630 Jyväskylä – Kypärämäki
+40640 Jyväskylä – Keltinmäki
+40660 Jyväskylä – Ruoke
+40700 Jyväskylä – Mäki-Matti
+40720 Jyväskylä – Nisula
+40740 Jyväskylä – Kortepohja, Laajavuori, Haukkala
+40800 Vaajakoski
+40820 Haapaniemi
+40900 Säynätsalo
+41120 Puuppola
+41140 Kuikka
+41160 Tikkakoski
+41450 Leppälahti
+41630 Oravasaari
+41800 Korpilahti
+41820 Saakoski
+41840 Moksi
+41860 Tikkala (ent. Rannila)
+41870 Putkilahti
+41880 Oittila
+41930 Kuohu
+41940 Vesanka
+70100 Kuopio – keskusta
+70110 Kuopio – keskusta
+70150 Kuopio – Neulamäki, Savilahti
+70200 Kuopio – Puijonlaakso
+70210 Kuopio – Itä-Suomen yliopisto, Kuopion yliopistollinen sairaala
+70240 Kuopio – Niuvanniemi
+70260 Kuopio – Julkula
+70280 Kuopio – Rypysuo
+70300 Kuopio – Linnanpelto
+70340 Kuopio – Inkilänmäki, Peipposenrinne
+70400 Kuopio – Kettulanlahti, Rahusenkangas
+70420 Kuopio – Päiväranta, Sorsasalo
+70460 Kuopio – Kelloniemi
+70500 Kuopio – Itkonniemi, Männistö
+70600 Kuopio – Niirala
+70620 Kuopio – Haapaniemi
+70700 Kuopio – Kolmisoppi, Särkiniemi
+70780 Kuopio – Jynkkä, Levänen
+70800 Kuopio – Litmanen, Pitkälahti
+70820 Kuopio – Petonen, Pirtti
+70840 Kuopio – Saaristokaupunki
+70870 Hiltulanlahti
+71130 Kortejoki
+71150 Vartiala
+71160 Riistavesi
+71310 Vehmersalmi
+71330 Räsälä
+71360 Litmaniemi
+71380 Mustinlahti
+71480 Kurkimäki
+71490 Airaksela
+71520 Kaislastenlahti
+71570 Syvänniemi
+71610 Salonkulma
+71650 Hirvilahti
+71660 Leinolanlahti
+71670 Kurolanlahti
+71680 Pulkonkoski
+71690 Varpasmaa
+71720 Käärmelahti
+71730 Kinnulanlahti
+71740 Tavinsalmi
+71745 Haatala
+71750 Maaninka
+71760 Ahkionlahti
+71775 Tuovilanlahti
+71950 Lammasaho
+72100 Karttula
+72140 Itä-Karttula
+72490 Saarinen
+73300 Nilsiä
+73310 Tahkovuori
+73320 Nilsiä – Reittiö
+73350 Haluna
+73360 Pajulahti
+73410 Pieksänkoski
+73460 Muuruvesi
+73470 Västinniemi
+73500 Juankoski
+73710 Viitaniemi
+73730 Losomäki
+73770 Säyneinen
+73810 Palonurmi
+73830 Siikajärvi
+15100 Lahti – keskustan eteläinen osa, Asemantausta
+15110 Lahti – keskustan läntinen osa
+15140 Lahti – keskustan pohjoinen osa, Ankkuri, Ruoriniemi
+15150 Lahti – Kujala, Pyhätön
+15160 Lahti – Karisto
+15170 Lahti – Möysä
+15200 Lahti – Kiveriö
+15210 Lahti – Kivimaa, Niemi
+15230 Lahti – Holma, Metsämaa
+15240 Lahti – Kilpiäinen, Mukkula
+15300 Lahti – Myllypohja
+15320 Lahti – Ahtiala
+15340 Lahti – Kunnas
+15460 Mäkelä
+15500 Lahti – Liipola
+15520 Lahti – Saksala
+15540 Villähde
+15550 Nastola – Rakokivi
+15560 Nastola – Kirkonkylä
+15580 Ruuhijärvi
+15610 Lahti – Laune, Nikkilä
+15680 Lahti – Renkomäki
+15700 Lahti – Ala-Okeroinen, Hennala
+15800 Lahti – Kärpänen
+15810 Lahti – Kasakkamäki
+15820 Lahti – Okeroinen
+15830 Lahti – Metsäkangas
+15840 Lahti – Pirttiharju, Riihelä
+15850 Lahti – Likolampi
+15900 Lahti – Tapanila
+15950 Lahti – Jalkaranta
+16100 Uusikylä
+16160 Okkeri
+90100 Oulu – Keskusta
+90120 Oulu – Heinäpää
+90130 Oulu – Intiö, Myllytulli, Raksila
+90140 Oulu – Karjasilta
+90150 Oulu – Höyhtyä, Lintula, Mäntylä, Nokela
+90220 Oulu – Kontinkangas
+90230 Oulu – Oulunsuu, Värttö
+90240 Oulu – Maikkula
+90250 Oulu – Kaukovainio, Hiironen
+90310 Oulu – Madekoski
+90400 Oulu – Nuottasaari
+90410 Oulu – Kiviniemi
+90420 Oulu – Kaakkuri, Metsokangas
+90460 Oulunsalo
+90470 Varjakka
+90500 Oulu – Tuira
+90510 Oulu – Hietasaari
+90520 Oulu – Toppila, Taskila
+90530 Oulu – Alppila, Välivainio
+90540 Oulu – Kuivasjärvi, Ritaharju
+90550 Oulu – Puolivälinkangas, Pyykösjärvi
+90560 Oulu – Koskela
+90570 Oulu – Kaijonharju, Linnanmaa
+90580 Oulu – Rajakylä
+90590 Oulu – Teknologiakylä
+90600 Oulu – Postikeskus
+90620 Oulu – Rusko
+90630 Oulu – Korvensuora
+90650 Oulu – Myllyoja
+90660 Oulu – Sanginsuu
+90670 Oulu – Hiukkavaara
+90800 Oulu – Pateniemi
+90810 Kiviniemi
+90820 Kello
+90830 Haukipudas
+90840 Haukipudas
+90850 Martinniemi
+90860 Halosenniemi
+90900 Kiiminki
+90910 Kontio
+90940 Jääli
+91200 Yli-Ii
+91240 Tannila
+91260 Pahkakoski
+91300 Ylikiiminki
+91310 Arkala
+28100 Pori – Keskusta
+28120 Pori – Käppärä
+28130 Pori – Uusikoivisto, Impola, Mikkola
+28190 Pori – Pormestarinluoto, Lyttylä
+28200 Pori – Toejoki, Hyvelä
+28220 Pori – Ruosniemi
+28240 Pori – Isojoenranta
+28300 Pori – Kalaholma, Lukkarinsanta, Väinölä
+28330 Pori – Koivistonluoto
+28360 Pori – Vanhakoivisto
+28370 Pori – Sampola
+28430 Pori – Kartano, Harmaalinna
+28500 Pori – Keskussairaala-alue, Tiilimäki, Lentoasema
+28540 Pori – Liikastenmäki, Pinomäki
+28560 Pori – Lattomeri
+28580 Pori – Niittumaa
+28600 Pori – Vähärauma, Ulasoori, Tuorsniemi
+28610 Pori – Musa
+28660 Pori – Pietniemi, Leppäkorpi, Paarnoori, Preiviiki
+28760 Pori – Kyläsaari
+28800 Pori – Pihlava
+28840 Pori – Kaanaa, Yyteri
+28880 Pori – Mäntyluoto
+28900 Pori – Reposaari, Tahkoluoto, Lampaluoto
+29570 Söörmarkku
+29600 Noormarkku
+29680 Lassila
+29700 Ahlainen
+29720 Lamppi
+38600 Lavia
+38650 Yli-Putto
+38670 Kalliala
+33100 Tampere – keskusta
+33180 Tampere – Lappi
+33200 Tampere – Kaakinmaa, Nalkala
+33210 Tampere – Tammerkoski, Finlayson
+33230 Tampere – Amuri, Särkänniemi, Pyynikinrinne, Pyynikki
+33240 Tampere – Tahmela
+33250 Tampere – Ala-Pispala, Ylä-Pispala
+33270 Tampere – Epilä, Kaarila, Hyhky
+33300 Tampere – Rahola
+33310 Tampere – Tesomajärvi, Ristimäki, Tohloppi
+33330 Tampere – Kalkku, Myllypuro
+33340 Tampere – Ikuri, Haukiluoma, Lamminpää
+33400 Tampere – Lielahti, Ryydynpohja, Lintulampi
+33410 Tampere – Lentävänniemi
+33420 Tampere – Lamminpää, Epilänharju
+33500 Tampere – Petsamo, Tammela
+33520 Tampere – Kauppi
+33530 Tampere – Kissanmaa, Uusikylä, Hakametsä
+33540 Tampere – Kaleva, Liisankallio, Kalevanrinne
+33560 Tampere – Janka, Irjala, Pappila, Takahuhti, Pohtola
+33580 Tampere – Atala, Linnainmaa
+33610 Tampere – Olkahinen, Tasanne
+33680 Tampere – Aitolahti
+33700 Tampere – Messukylä
+33710 Tampere – Kaukajärvi
+33720 Tampere – Hervanta, Rusko
+33730 Tampere – Vehmainen
+33800 Tampere – Nekala, Vihioja, Jokipohja
+33820 Tampere – Koivistonkylä, Hallila
+33840 Tampere – Lakalaiva, Peltolammi
+33850 Tampere – Multisilta
+33870 Tampere – Vuores
+33900 Tampere – Härmälä, Rantaperkiö
+34240 Kämmenniemi
+34260 Terälahti
+34270 Velaatta
+20100 Turku / Åbo – VI ja VII kaupunginosat
+20200 Turku / Åbo – Iso-Heikkilä
+20210 Turku / Åbo – Pahaniemi
+20240 Turku / Åbo – Pansio
+20250 Turku / Åbo – Pitkämäki
+20300 Turku / Åbo – Raunistula, Kastu, Kähäri
+20320 Turku / Åbo – Hepokulta, Teräsrautela, Länsinummi, Ruohonpää
+20360 Turku / Åbo – Runosmäki, Kaerla
+20380 Turku / Åbo – Räntämäki, Oriketo, Saramäki
+20400 Turku / Åbo – Moisio, Yli-Maaria
+20460 Turku / Åbo – Jäkärlä
+20500 Turku / Åbo – Yliopiston alue
+20520 Turku / Åbo – Itäharju
+20540 Turku / Åbo – Itäharju, Nummi, Halinen, Kurala, Kohmo
+20610 Turku / Åbo – Pääskyvuori, Varissuo
+20700 Turku / Åbo – II kaupunginosa
+20720 Turku / Åbo – Vasaramäki
+20730 Turku / Åbo – Skanssi
+20740 Turku / Åbo – Ilpoinen
+20750 Turku / Åbo – Lauste, Vaala
+20800 Turku / Åbo – Virastotalo
+20810 Turku / Åbo – Mäntymäki, Vähäheikkilä
+20880 Turku / Åbo – Uittamo, Ispoinen
+20900 Turku / Åbo – Hirvensalo
+20960 Turku / Åbo – Satava, Kakskerta
+21330 Paattinen / Patis
+21340 Tortinmäki
+65100 Vaasa / Vasa – keskusta, Vöyrinkaupunki
+65130 Vaasa / Vasa – Hietalahti
+65170 Vaasa / Vasa – Vaskiluoto
+65200 Vaasa / Vasa – Palosaari
+65230 Vaasa / Vasa – Vetokannas
+65280 Vaasa / Vasa – Gerby
+65300 Vaasa / Vasa – Kivihaka, Asevelikylä
+65320 Vaasa / Vasa – Huutoniemi
+65350 Vaasa / Vasa – Suvilahti
+65370 Vaasa / Vasa – Ristinummi
+65380 Vaasa / Vasa – Vanha Vaasa
+65410 Sundom
+66430 Vedenoja
+66440 Tervajoki
+66500 Vähäkyrö / Lillkyro
+66510 Merikaarto / Merikart
+01200 Vantaa / Vanda – Hakunila, Länsisalmi, Ojanko, Sotunki
+01230 Vantaa / Vanda – Vaarala
+01260 Vantaa / Vanda – Itä-Hakkila, Kuninkaanmäki
+01280 Vantaa / Vanda – Länsimäki, Rajakylä
+01300 Vantaa / Vanda – Koivuhaka, Kuninkaala, Tikkurila, Viertola
+01340 Vantaa / Vanda – Leinelä
+01350 Vantaa / Vanda – Hiekkaharju, Simonkylä
+01360 Vantaa / Vanda – Havukoski, Koivukylä
+01370 Vantaa / Vanda – Jokiniemi
+01380 Vantaa / Vanda – Hakkila, Kuninkaala
+01390 Vantaa / Vanda – Ilola, Ruskeasanta
+01400 Vantaa / Vanda – Asola, Matari, Rekola
+01420 Vantaa / Vanda – Päiväkumpu
+01450 Vantaa / Vanda – Korso, Leppäkorpi, Metsola, Vallinoja, Vierumäki
+01480 Vantaa / Vanda – Jokivarsi, Metsola, Mikkola
+01490 Vantaa / Vanda – Nikinmäki
+01510 Vantaa / Vanda – Helsingin pitäjän kirkonkylä, Koivuhaka, Pakkala, Veromies
+01520 Vantaa / Vanda – Pakkala, Tammisto
+01530 Vantaa / Vanda – Lentokenttä, Veromies
+01600 Vantaa / Vanda – Myyrmäki
+01610 Vantaa / Vanda – Kaivoksela
+01620 Vantaa / Vanda – Martinlaakso
+01630 Vantaa / Vanda – Hämeenkylä
+01640 Vantaa / Vanda – Hämevaara, Linnainen
+01650 Vantaa / Vanda – Vapaala
+01660 Vantaa / Vanda – Varisto
+01670 Vantaa / Vanda – Vantaanlaakso
+01680 Vantaa / Vanda – Askisto
+01690 Vantaa / Vanda – Ylästö
+01700 Vantaa / Vanda – Kivistö
+01710 Vantaa / Vanda – Pähkinärinne
+01720 Vantaa / Vanda – Petikko, Varisto
+01730 Vantaa / Vanda – Lapinkylä, Myllymäki, Piispankylä
+01740 Vantaa / Vanda – Viinikkala
+01750 Vantaa / Vanda – Keimola, Luhtaanmäki, Vestra
+01760 Vantaa / Vanda – Kiila, Riipilä, Seutula
+01770 Vantaa / Vanda – Sanomala
