@@ -1,5 +1,8 @@
-metaflow>=2.12.29
-numpy>=1.26.4
-pandas>=2.1.1
-sqlalchemy>=2.0.21
-scikit-learn>=1.5.2
+bs4
+html5lib
+lxml
+metaflow
+numpy
+pandas
+sqlalchemy
+scikit-learn

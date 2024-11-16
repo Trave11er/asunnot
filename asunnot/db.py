@@ -1,6 +1,3 @@
-import os
-import subprocess as sp
-import tempfile
 from pathlib import Path
 
 from sqlalchemy import create_engine
@@ -9,7 +6,6 @@ import pandas as pd
 TABLE_NAME = "asunnot"
 DATABASE_NAME = f"{TABLE_NAME}.db"
 GET_ALL_QUERY = f"SELECT DISTINCT * FROM {TABLE_NAME}"
-WORK_DIR = Path(__file__).parent.parent
 
 
 class DB:
@@ -62,17 +58,3 @@ def encode_df(input_df, normalize=True):
     input_df[Col.POSTAL] = input_df[Col.POSTAL].map(lambda x: int(x))
 
     return input_df
-
-
-def install_requirements(requirements_content):
-    with tempfile.NamedTemporaryFile(delete=False, suffix=".txt") as temp_file:
-        temp_file.write(requirements_content.encode("utf-8"))
-        temp_file_path = temp_file.name
-
-    try:
-        sp.check_call(["pip", "install", "-r", temp_file_path])
-    finally:
-        # Optionally, you can remove the temporary file after installation
-        import os
-
-        os.remove(temp_file_path)
